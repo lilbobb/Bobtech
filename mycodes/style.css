@@ -1,0 +1,139 @@
+body{
+    background-color: #e7d5e9;
+    margin:auto;
+    width: 100%;
+}
+#p{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-left: 350px;
+}
+.wrap{
+    width: 900px;
+    height: 800px;
+    margin-left: 325px;
+   margin-top: 100px;
+}
+.first1{
+    width: 450px;
+    height: 600px;
+    background-color: #ffffff;
+    float: right;
+}
+.first1 h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.first1 p{
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+#pp{
+    margin-left:130px;
+    width:50%;
+}
+form{
+    margin-left: 30px;
+    font-size:20px;
+    font-family: sans-serif;
+    line-height: 35px;
+    margin-top: 0%;
+    
+}
+form input{
+    width: 90%;
+    border-radius: 10px;
+    border-color: #e7d5e9;
+    height:35px;
+    margin-top: 15px;
+}
+#radio, #radio1{
+    margin-left: 35px;
+}
+.first1 button{
+    width: 65%;
+    height: 65px;
+    background-color:rgb(226, 115, 3);
+    color: white;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-top: 20px;
+    border: 0px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.first{
+    width: 450px;
+    height: 700px;
+    float:left;
+    background-color:#e9d5eb;
+}
+.book{
+    width: 130px;
+    height: 155px;
+    background-color: #f9f8f9;
+    margin-top:200px;
+    transform: rotate(11deg);
+}
+.book1{
+    width: 120px;
+    height: 154px;
+    background-color: #510a51; 
+    margin-top:200px;
+    transform: rotate(-7deg);
+}
+.book2{
+    width: 120px;
+    height: 165px;
+    background-color: #af83af;
+    margin-top:200px;
+    margin-left: -15px;
+    transform: rotate(-4deg);
+    
+}
+.book2 p{
+    font-size: 10px;
+    font-family: sans-serif;
+    
+}
+footer{
+    background-color: azure;
+    margin-top: 0px;
+    height: 400px;
+}
+footer h3{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: auto;
+}
+footer li{
+    display: inline;
+    padding: 50px;
+    
+}
+footer ul{
+    margin-left: 350px;
+    margin-top: 50px;
+    height: auto;
+}
+footer button{
+width: 15%;
+height: 30px;
+margin-left: 600px;
+margin-top: 20px;
+border-radius: 15px;
+border-style: solid black;
+box-shadow: #d4b0d8;
+background-color: rgb(255, 255, 255);
+}
+p{
+    display:block;
+    font-size: 15px;
+}
+ul{
+    margin-left: -25px;
+}
